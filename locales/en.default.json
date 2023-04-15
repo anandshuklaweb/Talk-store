@@ -1,0 +1,44 @@
+{
+  "general": {
+    "404": {
+      "title": "Sorry, we can't find that page.",
+      "back": "Back to Talk"
+    }
+  },
+  "product": {
+    "copy": {
+      "headline": "Hassle free fitness tracking",
+      "description_headline": "Information"
+    },
+    "details_list": {
+      "item1": "Companion apps for iOS and Android",
+      "item2": "Preorders begins shipping this Month"
+    },
+    "form": {
+      "submit": "Preorder"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Cart",
+      "preorder_info": "All preorders ship free this Month",
+      "support_title": "Any questions?",
+      "support_email": "support@anandshukla.com",
+      "checkout": "Checkout",
+      "empty": "Your Cart is empty",
+      "back": "Back to Talk store"
+    },
+    "button": {
+      "filled": "Your Cart",
+      "empty": "Your Cart is empty",
+      "close": "Close"
+    },
+    "lines": {
+      "title": "Order Summary",
+      "shipping": "Shipping",
+      "subtotal": "Subtotal",
+      "free": "Free",
+      "remove": "Remove"
+    }
+  }
+}
